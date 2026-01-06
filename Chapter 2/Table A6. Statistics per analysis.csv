@@ -1,0 +1,120 @@
+﻿Analysis,Mutualism_type,t_stat,CWM1,CWV1,CWIV1,LMM % within,TypeData,Normalized,Fitness_effect,Source
+1A,Plant Protection,0.9180778,1.435052,0.06218643,0.7459327,82.95,raw,No,Medium,Literature
+2A,Seed Dispersal,0.4020224,0.3370118,0.3846276,0.6424504,30.44,raw,No,High,Literature
+2B,Seed Dispersal,0.6895163,0.4594809,0.3240663,0.9650688,73.24,raw,No,High,Literature
+2C,Seed Dispersal,0.8676755,8.136333,2.710678,19.38666,47.92,raw,No,High,Literature
+3A,Plant Protection,0.8808329,34.12316,17.28396,124.5264,82.75,raw,No,Medium,Literature
+4A,Plant Protection,0.9123351,0.06219195,0.000459459,0.00421941,85.45,raw,No,Medium,Literature
+5A,Seed Dispersal,0.9465368,1.987234,0.1763902,3.497852,na,"mean, sd",Yes,High,Literature
+6A,Seed Dispersal,0.6727645,19.26316,348.4571,1189.378,na,"mean, sd",Yes,High,Literature
+7A,Seed Dispersal,0.7552577,643.4786,26748.05,103732.1,na,"mean, sd",Yes,High,Literature
+7B,Seed Dispersal,0.824097,868.0909,42731.74,248429.6,na,"mean, sd",Yes,High,Literature
+7C,Seed Dispersal,0.76973,878.3556,73023.86,315291.4,na,"mean, sd",Yes,High,Literature
+7D,Seed Dispersal,0.6614894,688.0344,51687.68,147915.3,na,"mean, sd",Yes,High,Literature
+7E,Seed Dispersal,0.7644653,489.829,21439.52,89087.88,na,"mean, sd",Yes,High,Literature
+7F,Seed Dispersal,0.8328883,537.456,15053.88,83730.01,na,"mean, sd",Yes,High,Literature
+8A,Plant Protection,0.7256236,-,-,-,na,"mean, se",Yes,Medium,Literature
+9A,Pollination,0.9433158,2.48513,0.5985556,9.985317,na,"mean, sd",Yes,Medium,Literature
+9B,Pollination,0.9911041,75.06714,34.88381,3602.502,na,"mean, sd",Yes,Medium,Literature
+10A,Seed Dispersal,0.4634088,3.983478,11.04589,20.40963,na,"mean, sd",Yes,High,Literature
+11A,Seed Dispersal,0.4542269,2.741479,4.200691,7.5884,na,"mean, sd",Yes,High,Literature
+12A,Seed Dispersal,0.3566679,335.8768,71543.38,110278.4,na,"mean, se",Yes,High,Literature
+13A,Seed Dispersal,0.6520188,1.379439,0.6997165,1.982329,na,"mean, sd",Yes,High,Literature
+14A,Seed Dispersal,0.4185707,54.73684,7372.404,12760.64,na,"mean, se",Yes,High,Literature
+15A,Seed Dispersal,0.9079279,1.699016,0.4280744,5.08332,na,"mean, sd",Yes,High,Literature
+16A,Seed Dispersal,0.3375665,122.929,52816.23,84242.92,na,"mean, sd",Yes,High,Literature
+17A,Seed Dispersal,0.7336661,76.85593,2245.547,8221.115,na,"mean, sd",Yes,High,Literature
+18A,Seed Dispersal,0.2280529,4.413333,28.77876,38.02232,na,"mean, sd",Yes,High,Literature
+19A,Seed Dispersal,0.451003,419.0526,181398.4,332210.2,na,"mean, sd",Yes,High,Literature
+20A,Seed Dispersal,0.8833581,31.02455,83.96753,733.6519,na,"mean, se",Yes,Low,Literature
+21A,Seed Dispersal,1.00057,0.841134,0.02013995,12.30049,na,"mean, se",Yes,High,Literature
+22A,Plant Protection,0.5651879,277.4805,65274.27,150883.3,na,"mean, sd",Yes,Medium,Literature
+23A,Plant Protection,0.8428221,2.663913,2.015838,13.01864,na,"mean, sd",Yes,Medium,Literature
+24A,Seed Dispersal,0.7390473,na,na,na,na,"mean, se",Yes,Low,Literature
+25A,Plant Protection,0.1678895,13.89925,106.5345,128.3935,11.89,raw,No,Medium,Literature
+26A,Plant Protection,0.9834484,21.24977,24.15726,1986.353,na,"mean, se",Yes,Medium,Literature
+26B,Plant Protection,0.9441161,38.00604,205.393,3680.201,na,"mean, se",Yes,Medium,Literature
+27A,Seed Dispersal,0.9343147,na,na,na,na,"mean, sd",Yes,Medium,Literature
+27B,Seed Dispersal,0.7629245,na,na,na,na,"mean, sd",Yes,Medium,Literature
+28A,Pollination,1.020441,3.558718,0.009227057,11.75877,100,raw,No,Medium,Literature
+29A,Seed Dispersal,0.7632135,-,-,-,na,"mean, se",Yes,Medium,Literature
+30A,Plant Protection,0.9792033,166.1166,5334.132,122329.6,na,"mean, se",Yes,Medium,Literature
+31A,Pollination,0.9400581,293.8192,7006.127,56921.49,89.27,raw,No,High,Literature
+31B,Pollination,0.5930592,-,-,-,42.98,raw,No,High,Literature
+32A,Pollination,0.9507288,1224.158,236997.9,515979,na,"mean, sd",Yes,High,Literature
+32B,Pollination,0.9974906,36.66387,18.43314,2039.967,na,"mean, sd",Yes,High,Literature
+33A,Pollination,1.010812,116.9362,74.74061,4893.634,na,"mean, sd",Yes,High,Literature
+34A,Pollination,1.004292,65.91047,0.0360835,88.52453,na,"mean, se",Yes,High,Literature
+34B,Pollination,0.9176873,83.62192,50.11216,701.1485,na,"mean, se",Yes,High,Literature
+35A,Pollination,0.9898152,-,-,-,na,"mean, se",Yes,High,Literature
+35B,Pollination,0.9957188,-,-,-,na,"mean, se",Yes,High,Literature
+35C,Pollination,0.9973499,-,-,-,na,"mean, se",Yes,High,Literature
+36A,Seed Dispersal,0.6346622,1.203155,0.3946273,1.079548,na,"mean, se",Yes,Medium,Literature
+36B,Seed Dispersal,0.2606609,4.215663,21.56108,29.44004,na,"mean, se",Yes,Medium,Literature
+37A,Pollination,0.7709559,128.3373,765.5465,3278.922,na,"mean, se",Yes,High,Literature
+38A,Pollination,0.8436463,-,-,-,na,"mean, se",Yes,High,Literature
+38B,Pollination,0.5128807,-,-,-,na,"mean, se",Yes,High,Literature
+38C,Pollination,0.9760993,-,-,-,na,"mean, se",Yes,High,Literature
+39A,Plant Protection,0.9499946,2.98237,0.3964981,6.082868,na,"mean, sd",Yes,Medium,Literature
+40A,Seed Dispersal,0.855585,0.6812871,0.03244488,0.2258508,na,"mean, sd",Yes,Low,Literature
+41A,Seed Dispersal,0.3432358,-,-,-,na,"mean, up-low limits",Yes,Medium,Literature
+41B,Seed Dispersal,0.160185,-,-,-,na,"mean, up-low limits",Yes,Medium,Literature
+42A,Seed Dispersal,0.9953859,2.857143,0.8456633,88.84075,na,"mean, se",Yes,Medium,Literature
+42B,Seed Dispersal,0.9891435,6.308929,7.359385,376.083,na,"mean, se",Yes,Medium,Literature
+42C,Seed Dispersal,0.8659567,17.74821,316.6354,2691.287,na,"mean, se",Yes,Medium,Literature
+42D,Seed Dispersal,0.9291799,56.8875,5151.614,105972,na,"mean, se",Yes,Medium,Literature
+42E,Seed Dispersal,0.9854441,36.31773,97.61466,5256.653,na,"mean, se",Yes,High,Literature
+43A,Pollination,0.3464043,0.7317891,0.3464176,0.5297461,na,"mean, se",Yes,Medium,Literature
+43B,Pollination,1.011071,1.617529,0.008670195,10.21125,na,"mean, se",Yes,Medium,Literature
+43C,Pollination,0.4654568,3.436249,8.22207,15.46044,na,"mean, se",Yes,Medium,Literature
+43D,Pollination,0.984938,12.81572,15.13112,568.4099,na,"mean, se",Yes,Medium,Literature
+44A,Pollination,0.9977652,0.464382,0.005249337,1.370788,na,"mean, sd",Yes,Medium,Literature
+44B,Pollination,0.9848871,0.3887394,0.001904488,0.1039549,na,"mean, sd",Yes,Medium,Literature
+44C,Pollination,0.8408978,0.2983587,0.01944265,0.1207756,na,"mean, sd",Yes,Medium,Literature
+44D,Pollination,1.002217,0.4471688,2.38E-05,0.1345852,na,"mean, sd",Yes,Medium,Literature
+44E,Pollination,0.5566797,0.2680383,0.04319208,0.09716366,na,"mean, sd",Yes,Medium,Literature
+44F,Pollination,0.8596326,0.3562533,0.01573497,0.1101315,na,"mean, sd",Yes,Medium,Literature
+44G,Pollination,0.5045092,0.2644109,0.0414198,0.08340292,na,"mean, sd",Yes,Medium,Literature
+44H,Pollination,0.3728306,0.7825644,0.01588315,0.02531704,na,"mean, sd",Yes,Medium,Literature
+44I,Pollination,0.9879409,0.7397175,0.000614702,0.03904454,na,"mean, sd",Yes,Medium,Literature
+44J,Pollination,0.9240915,0.3293263,0.008385076,0.1057542,na,"mean, sd",Yes,Medium,Literature
+45A,Pollination,0.6334171,42.19053,2402.63,6745.407,na,"mean, sd",Yes,Medium,Literature
+45B,Pollination,0.6497453,12.99053,124.5337,365.2214,na,"mean, sd",Yes,Medium,Literature
+46A,Pollination,0.9174029,23.90922,114.899,1391.103,na,"mean, sd",Yes,High,Literature
+47A,Pollination,1.011214,405.1197,354.6269,4658534,na,"mean, se",Yes,High,Literature
+48A,Plant Protection,0.9991188,17.0165,56.36432,29233.14,na,"mean, se",Yes,Medium,Literature
+49A,Pollination,0.00034142,5404.535,203729684,203799161,na,"mean, sd",Yes,High,Literature
+49B,Pollination,0.9819129,229.155,1556.222,181324.6,na,"mean, sd",Yes,High,Literature
+49C,Pollination,0.895842,-,-,-,na,"mean, sd",Yes,Medium,Literature
+49D,Pollination,0.9133607,-,-,-,na,"mean, sd",Yes,Medium,Literature
+50A,Pollination,0.6426535,12.2001,304.8705,945.8968,40.33,raw,Yes,High,Literature
+50B,Pollination,0.9583023,27.22442,54.63988,1703.347,70.54,raw,Yes,High,Literature
+50C,Pollination,1.001533,24.83448,0.5710154,709.2975,100,raw,Yes,High,Literature
+50D,Pollination,0.9707972,55.20291,94.13356,3031.125,86.89,raw,Yes,High,Literature
+50E,Pollination,0.7540478,34.24541,187.4934,766.309,48.23,raw,Yes,High,Literature
+51A,Seed Dispersal,0.2277083,126.0545,45994.7,60216.07,na,"mean, sd",Yes,Medium,Literature
+52A,Plant Protection,0.6059126,57.3125,1794.434,4800.586,na,"mean, se",Yes,Medium,Literature
+52B,Plant Protection,0.6054779,223.75,16583.44,43597.5,na,"mean, se",Yes,Medium,Literature
+52C,Plant Protection,0.875496,36.125,658.3594,4437.484,na,"mean, se",Yes,Medium,Literature
+53A,Pollination,0.9261556,9.475519,10.24043,137.6086,na,"mean, se",Yes,High,Literature
+53B,Pollination,0.9712902,0.5169648,0.005017765,0.175313,na,"mean, se",Yes,High,Literature
+54A,Plant Protection,0.868748,-,-,-,na,"mean, se",Yes,Medium,Literature
+55A,Pollination,1.002419,0.04284689,5.94E-06,0.008284328,na,"mean, se",Yes,High,Literature
+55B,Pollination,0.9961292,0.02243662,6.55E-06,0.001695137,na,"mean, se",Yes,High,Literature
+55C,Pollination,1.006362,0.1252446,9.83E-05,0.01548973,na,"mean, se",Yes,High,Literature
+55D,Pollination,0.9910753,0.06598108,2.26E-05,0.002522269,na,"mean, se",Yes,High,Literature
+55E,Pollination,0.9998232,0.001840509,1.38E-08,7.49E-05,na,"mean, se",Yes,High,Literature
+56A,Plant Protection,0.9264349,1.111859,0.7083627,9.207746,na,"mean, se",Yes,Medium,Literature
+56B,Plant Protection,0.9232444,0.2978578,0.02053498,0.2750555,na,"mean, se",Yes,Medium,Literature
+57A,Pollination,0.1944422,0.2793805,0.09429438,0.1169954,na,"mean, se",Yes,High,Literature
+57B,Pollination,0.8656148,0.6146824,0.0127099,0.09179197,na,"mean, se",Yes,High,Literature
+58A,Seed Dispersal,0.2246402,-,-,-,na,"mean, se",Yes,Medium,Literature
+59A,Pollination,1.003034,0.04800186,1.28E-06,0.003795608,na,"mean, se",Yes,Medium,Literature
+59B,Pollination,0.7279497,13.98381,11.98274,44.48942,na,"mean, se",Yes,Medium,Literature
+60A,Pollination,0.2604151,-,-,-,na,"mean, se",Yes,Medium,Literature
+60B,Pollination,0.2416738,-,-,-,na,"mean, se",Yes,High,Literature
+61A,Plant Protection,0.9566448,1.460433,0.02071492,0.7611678,na,"mean, se",Yes,Low,Literature
+62A,Plant Protection,0.4230867,-,-,-,na,"mean, se",Yes,Low,Literature
+63A,Pollination,0.7038092,5.07931,6.966343,25.85632,na,"mean, se",Yes,Medium,Literature
+63B,Pollination,0.7323705,2507.58,9607074,43606865,na,"mean, se",Yes,High,Literature
+64A,Plant Protection,0.9507288,7.536905,3.467222,63.75314,89.61,raw,No,Medium,This study
