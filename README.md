@@ -1,4 +1,4 @@
-## List of tables available online in the thesis Evolutionary Ecology and Genomics of Mutualism and Microbial Symbiosis in Insects
+## List of tables available online for the thesis Evolutionary Ecology and Genomics of Mutualism and Microbial Symbiosis in Insects
 Maria Camila Tocora Alonso
 
 Doctor of Philosophy
