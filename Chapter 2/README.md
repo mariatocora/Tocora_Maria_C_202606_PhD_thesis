@@ -1,5 +1,4 @@
-## Appendix A: Supplement for Chapter 2
-### Chapter 2 - Intraspecific variation swamps interspecific variation in plant-animal mutualisms
+## Appendix A: Supplement for Chapter 2 - Intraspecific variation swamps interspecific variation in plant-animal mutualisms
 List of tables: 
 
 1. Table A2. List of papers screened in the Meta-analysis.
